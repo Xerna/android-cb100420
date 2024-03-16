@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CernaBonilla</string>
+    <string name="item_menu_configuracion">Configuracion</string>
+    <string name="item_menu_perfil">Ver Perfil</string>
+    <string name="item_menu_geolocalizacion">Enviar Mi ubicacion</string>
+    <string name="item_menu_nuevacuenta">Crear Nueva Cuenta</string>
+    <string name="item_menu_salir">Cerrar Sesion</string>
+    <string name="btn_nueva_activity">Abrir nueva ventana</string>
+    <string name="txt_segunda_activity">Esta es la segunda activity</string>
+</resources>
